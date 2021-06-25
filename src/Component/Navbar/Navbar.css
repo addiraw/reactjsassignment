@@ -1,0 +1,15 @@
+.navbar {
+    height: 150px;
+    background-color: rgb(235, 11, 11);
+    color: white;
+}
+.title
+{   padding-top: 10px;
+    font-size: large;
+    text-align: center;
+}
+#search
+{   margin-top: 20px;
+    width: 400px;
+    height: 30px;
+}
