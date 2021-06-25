@@ -9,6 +9,7 @@ export default function Navbar() {
                     Search Photos
                     <div className="search-box">
                         <input type="search" name="search" id="search" />
+                    
                     </div>
                 
                 </div>
