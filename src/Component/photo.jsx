@@ -52,7 +52,7 @@ export default class MediaGallery extends Component {
                             <div key={index} onClick={this.selectImage.bind(this,this.imageURL(item))}>
                                 <img className="media-gallery-thumbnails__img" src={this.imageURL(item)}/>
                             </div>)
-                        : <div>Loading...</div>
+                        : <div>Loading...with</div>
                     }
                 </div>
                 <div className="media-gallery-main">
